@@ -1,0 +1,99 @@
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.staticwebassets.endpoints.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.exe
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.deps.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.runtimeconfig.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.pdb
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\BCrypt-Net-Next.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\DnsClient.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Snappier.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.csproj.AssemblyReference.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.AssemblyInfoInputs.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.AssemblyInfo.cs
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\scopedcss\bundle\OroFashionAPI.styles.css
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashi.AFE660EF.Up2Date
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\refint\OroFashionAPI.dll
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.pdb
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.genruntimeconfig.cache
+C:\Users\User\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\ref\OroFashionAPI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\appsettings.Development.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\appsettings.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.staticwebassets.endpoints.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.exe
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.deps.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.runtimeconfig.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.pdb
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\BCrypt-Net-Next.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\DnsClient.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\MongoDB.Bson.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\MongoDB.Driver.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\SharpCompress.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Snappier.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\ZstdSharp.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.csproj.AssemblyReference.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.AssemblyInfoInputs.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.AssemblyInfo.cs
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.csproj.CoreCompileInputs.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\scopedcss\bundle\OroFashionAPI.styles.css
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.development.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashi.AFE660EF.Up2Date
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\refint\OroFashionAPI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.pdb
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\OroFashionAPI.genruntimeconfig.cache
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\ref\OroFashionAPI.dll
+D:\full stack website\OroFashionAPI\OroFashionAPI\bin\Debug\net9.0\OroFashionAPI.staticwebassets.runtime.json
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\bmqeuws522-37cuw6sy3z.gz
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\xtw8zzkkfn-5ipweew5fc.gz
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\c7mffyjidy-i10q2ibz1u.gz
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\6nwufar2od-xmka9k2khu.gz
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\9mdoe9zq1g-39tegmrjtp.gz
+D:\full stack website\OroFashionAPI\OroFashionAPI\obj\Debug\net9.0\compressed\w64y1fkfom-meh181cnt5.gz
